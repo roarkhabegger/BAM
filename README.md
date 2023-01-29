@@ -7,5 +7,5 @@ Before downloading this repository using the green Code button, please follow th
 ## Installing Anaconda
 Anaconda is a program which includes the Python coding language along with several useful coding interfaces. Since it is easy to download and get setup, we recommend starting with it as opposed to other (possibly less bulky) Python installation methods.
 
-1. Go to <a onclick="window.open(this.href,'_blank');return false;" href="https://www.anaconda.com/products/distribution" target="_blank">Anaconda</a>, and download the installer for your system (it should default to the correct system, but make sure the correct logo for your computer's operating system (Windows, Mac or Linux) appears. 
+1. Go to <a onclick="window.open(this.href,'_blank');return false;" href="https://www.anaconda.com/products/distribution"">Anaconda</a>, and download the installer for your system (it should default to the correct system, but make sure the correct logo for your computer's operating system (Windows, Mac or Linux) appears. 
 2. 
