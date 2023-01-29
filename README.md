@@ -11,6 +11,7 @@ Anaconda is a program which includes the Python coding language along with sever
 Once there, download the installer for your system (it should default to the correct system, but make sure the correct logo for your computer's operating system (Windows, Mac or Linux) appears. 
 After downloading, run the installer. 
 2. Once you have Anaconda, go ahead and open it. Then launch a CMD.exe Prompt and paste or type the following into the terminal that opens up: 
+
         conda install -c numpy astropy scipy matplotlib
 
 3. Next, go ahead and download this code as a zip file using the green Code button above (or click [this link](https://github.com/roarkhabegger/astrophysicalPython/archive/refs/heads/main.zip))
