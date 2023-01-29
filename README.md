@@ -12,11 +12,11 @@ Once there, download the installer for your system (it should default to the cor
 After downloading, run the installer. 
 2. Once you have Anaconda, go ahead and open it. Then launch a CMD.exe Prompt and paste or type the following into the terminal that opens up: 
 
-        conda install -c numpy astropy scipy matplotlib
-
+        conda install -c numpy astropy scipy matplotlib      
+You may have to type a 'y' into the terminal once it grabs these libraries.
 3. Next, go ahead and download this code as a zip file using the green Code button above (or click [this link](https://github.com/roarkhabegger/astrophysicalPython/archive/refs/heads/main.zip))
-4. After downloading the zip, unzip it on your computer (in a Documents folder, or some other place where you would like to work).
-5. Launch Jupyter Notebook (or JupyterLab) server from the array of icons in Anaconda's home page. 
+5. After downloading the zip, unzip it on your computer (in a Documents folder, or some other place where you would like to work).
+6. Launch Jupyter Notebook (or JupyterLab) server from the array of icons in Anaconda's home page. 
 This should open a browser (Chrome, Firefox, Safari, etc.) where you can see your directory of files. 
 Use that directory to navigate to where you unzipped the code from Github.
 6. Click on one of the files ending in .ipynb and get started coding when Jupyter opens another tab in your browser!
