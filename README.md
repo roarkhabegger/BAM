@@ -10,7 +10,8 @@ Anaconda is a program which includes the Python coding language along with sever
 1. Right click on the following link [Anaconda](https://www.anaconda.com/products/distribution) and open it in a new tab. 
 Once there, download the installer for your system (it should default to the correct system, but make sure the correct logo for your computer's operating system (Windows, Mac or Linux) appears. 
 After downloading, run the installer. 
-2. Once you have Anaconda, go ahead and open it. Then launch a CMD.exe Prompt and paste or type the following into the terminal that opens up: 
+2. Once you have Anaconda, go ahead and open it. You should see severall apps that you could launch. Find the one titled "CMD.exe Prompt" and launch it.
+When it opens up a terminal window, paste or type the following into that terminal: 
 
         conda install -c numpy astropy scipy matplotlib      
     You may have to type a 'y' into the terminal once it grabs these libraries.
