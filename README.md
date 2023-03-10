@@ -1,4 +1,5 @@
-# Welcome to a Python introduction for Astrophysicists and Astronomers!
+# Bootcamp on Astrophysics Methods
+## Welcome to a Python introduction for Astrophysicists and Astronomers!
 
 This repository is a set of Jupyter Notebook files introducing you to coding in Python, with examples geared towards modern astrophysics research. 
 
